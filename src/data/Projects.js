@@ -10,7 +10,7 @@ export const projects = [
     {
     id: 6,
     title: "Sands of the Forgotten: Qarya Al-Mansiyah",
-    techStack: ["Roblox Studio"],
+    techStack: ["Roblox Studio", "Lua Scripting"],
     category: "Game",
     description:
       "An immersive survival horror game set in a vast desert landscape, where players explore ancient ruins, uncover hidden secrets, and survive against mystical creatures.",
