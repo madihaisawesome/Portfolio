@@ -7,9 +7,9 @@ export const services = [
   {
     icon: DesignIcon,
     alt: "design icon",
-    title: "",
+    title: "Fries",
     description:
-      "",
+      "I love to eat fries...",
   },
   {
     icon: DevIcon,
