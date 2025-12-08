@@ -52,7 +52,7 @@ const ProjectModal = ({ project, closeModal }) => {
           </section>
 
           <section className="modal-my-role">
-            <h4 className="modal-my-role-title">My Role</h4>
+            <h4 className="modal-my-role-title">Features</h4>
             <ul className="modal-role-list">
               {myRole.map((role, index) => (
                 <li key={index} className="modal-role-item">

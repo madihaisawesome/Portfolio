@@ -7,12 +7,12 @@ export const projects = [
   {
     id: 1,
     title: "Flight Reservation System",
-    techStack: ["Java"],
+    techStack: ["Java", "MySQL"],
     category: "Application",
     description:
-      "",
+      "Airline booking application that allows users to search for flights, book tickets, and manage reservations.",
     imgSrc: Airplane,
-    myRole: ["Built a modular Java application with optimized SQL databse integration for efficient data handling", "Created clean, reusable code across victim, worker, and medical record modules"],
+    myRole: ["Search and book flights", "Manage reservations", "User authentication"],
     link: "https://github.com/azlfa-anwar/ensf480?search=1",
   },
   {
@@ -21,9 +21,9 @@ export const projects = [
     techStack: ["MySQL", "Python"],
     category: "Database Management System",
     description:
-      "NANA",
+      "A museum database system to manage exhibits, artists, and visitor information, providing efficient data retrieval and reporting.",
     imgSrc: museum,
-    myRole: ["Frontend Development", "UI/UX Design", "Project Management"],
+    myRole: ["Database design", "Data retrieval", "Reporting"],
     link: "https://github.com/ENSF-300-Fall-2024/museum-project-system_error",
   },
   {
@@ -32,24 +32,20 @@ export const projects = [
     techStack: ["MPLab", "RealTerm", "C", "Python"],
     category: "Embedded Systems",
     description:
-      "Karyawan is a publication website where users can create accounts, log in, and publish articles. The site features a clean and modern design, with a focus on user experience. I was responsible for troubleshooting UI issues, optimizing the interface, and fixing visual bugs.",
+      "An embedded countdown timer application that allows users to set, start, and monitor countdowns using a microcontroller and serial communication.",
     imgSrc: karyawan,
-    myRole: [
-      "UI Troubleshooting",
-      "Interface Optimization",
-      "Visual Bug Fixing",
-    ],
-    link: "fjosjfsj", //link not available
+    myRole: ["Developed embedded C code for microcontroller", "Implemented serial communication with Python"],
+    link: "https://github.com/users/madihaisawesome/projects/1"
   },
   {
     id: 2,
     title: "Disaster Relief Management System",
-    techStack: ["Next.js", "antD"],
-    category: "Expense Tracker",
+    techStack: ["Java", "SQL"],
+    category: "NANA",
     description:
-      "Smart Spend is a personal finance management tool that helps users track their expenses and manage their budgets effectively. The platform offers a user-friendly interface, allowing users to easily input and categorize their expenses. With features like expense tracking, budget setting, and financial insights, Smart Spend empowers users to take control of their finances.",
+      "Description coming soon",
     imgSrc: smartSpend,
-    myRole: ["blah blah", "blah blah", "blah blah"],
+    myRole: ["Built a modular Java application with optimized SQL databse integration for efficient data handling", "Created clean, reusable code across victim, worker, and medical record modules"],
     link: "gfhdgfh" , //link not available
   },
 

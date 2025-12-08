@@ -92,14 +92,14 @@
 }
 
 .modal-category {
-  color: rgba(214, 214, 214, 0.7);
+  color: rgba(18, 18, 18, 0.7);
   font-size: 15px;
   font-weight: 300;
 }
 
 .modal-description {
   margin: 25px 0;
-  color: rgb(214, 214, 214);
+  color: rgb(137, 134, 134);
   font-size: 15px;
   font-weight: 300;
   line-height: 1.6;
@@ -187,7 +187,7 @@
 .modal-role-item {
   position: relative;
   padding-left: 24px;
-  color: rgb(214, 214, 214);
+  color: rgb(19, 10, 10);
   font-size: 15px;
   font-weight: 300;
   line-height: 1.6;

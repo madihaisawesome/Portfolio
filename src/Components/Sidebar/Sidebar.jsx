@@ -57,7 +57,7 @@ const Sidebar = () => {
         <figure className="avatar-box">
           <img
             src={profilePicture}
-            alt="Arsal Naeem's profile picture"
+            alt="Madiha Khan's profile picture"
             aria-describedby="profile-info"
           />
         </figure>
