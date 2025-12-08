@@ -1,7 +1,3 @@
 export const briefContent = [
-  ` Hello! My name is Madiha Khan and I `,
-
-  `lalallal. `,
-
-  `no. `,
+  ` Hi, I'm Madiha. By day, I’m a third-year Software Engineering student at UCalgary. By night, I’m ... still probably coding (XD) because why sleep when you can solve problems? I turn complex challenges into elegant solutions, and I’m always ready for the next big build!`,
 ];

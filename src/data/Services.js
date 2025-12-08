@@ -9,26 +9,26 @@ export const services = [
     alt: "design icon",
     title: "Chickiee",
     description:
-      "The most modern and high-quality design made at a professional level.",
+      "add smthh",
   },
   {
     icon: DevIcon,
     alt: "Web development icon",
     title: "Game Development",
-    description: "High-quality development of sites at the professional level.",
+    description: "add smthhh",
   },
 
     {
     icon: Outdoors,
     alt: "Web development icon",
-    title: "Explorer",
-    description: "High-quality development of sites at the professional level.",
+    title: "Exploring",
+    description: "add smthhhh",
   },
 
     {
     icon: Art,
     alt: "Web development icon",
     title: "Arts and Crafts",
-    description: "High-quality development of sites at the professional level.",
+    description: "smthhhhh",
   },
 ];
