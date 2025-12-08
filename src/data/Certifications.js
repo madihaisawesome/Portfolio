@@ -1,14 +1,9 @@
 export const certifications = [
   {
-    title: "add smthh",
-    date: "add date",
+    title: "Gold Medal in Calgary Youth Science Fair",
+    date: "2019",
     description:
-      "add smthh",
+      "Awarded Gold Medal for outstanding project in the Calgary Youth Science Fair, recognizing excellence in scientific research and presentation.",
   },
-  {
-    title: "add smthh",
-    date: "add date",
-    description:
-      "add add",
-  },
+
 ];

@@ -62,7 +62,7 @@
   left: -40px;
   width: 1px;
   height: calc(100% + 50px);
-  background: hsl(0, 0%, 22%);
+  background: hsl(319, 95%, 15%);
 }
 
 /* Circle indicator for timeline items */
@@ -75,7 +75,7 @@
   width: 8px;
   background: var(--primary-gradient);
   border-radius: 50%;
-  box-shadow: 0 0 0 4px hsl(0, 0%, 22%);
+  box-shadow: 0 0 0 4px hsl(319, 95%, 15%);
 }
 
 /* Text styling within timeline items */

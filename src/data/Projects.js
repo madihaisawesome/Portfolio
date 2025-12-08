@@ -2,6 +2,7 @@ import museum from "../assets/museum.png";
 import Airplane from "../assets/Airplane.png";
 import smartSpend from "../assets/disaster.png";
 import karyawan from "../assets/timer.jpg";
+import led from "../assets/led.png";
 
 export const projects = [
   {
@@ -41,28 +42,25 @@ export const projects = [
     id: 2,
     title: "Disaster Relief Management System",
     techStack: ["Java", "SQL"],
-    category: "NANA",
+    category: "Application",
     description:
-      "Description coming soon",
+      "A disaster relief management system to coordinate aid distribution, track resources, and manage volunteer efforts during emergencies.",
     imgSrc: smartSpend,
     myRole: ["Built a modular Java application with optimized SQL databse integration for efficient data handling", "Created clean, reusable code across victim, worker, and medical record modules"],
     link: "gfhdgfh" , //link not available
   },
+  
+  {
+    id: 5,
+    title: "LED Intensity Controller",
+    techStack: ["C", "MPLab", "Microcontroller", "Python", "RealTerm"],
+    category: "Application",
+    description:
+      "An embedded system application that allows users to control the intensity of an LED using a microcontroller, potentiometer, and serial communication.",
+    imgSrc: led,
+    myRole: ["Developed embedded C code for microcontroller", "Implemented serial communication with Python"],
+    link: "gfhdgfh" , //link not available
+  },
+ 
 
-  // {
-  //   id: 5,
-  //   title: "MyStory",
-  //   techStack: ["Django", "Jinja 2", "Python"],
-  //   category: "Story Sharing Platform",
-  //   description:
-  //     "MyStory is a story-sharing platform built with Django and Python. It lets users create accounts, log in, share stories, and browse others' stories. The frontend uses HTML and CSS for a clean interface, and the admin interface allows efficient management of users and content.",
-  //   imgSrc: mystory,
-  //   myRole: [
-  //     "Frontend Development",
-  //     "UI/UX Design",
-  //     "Project Management",
-  //     "Backend Development",
-  //   ],
-  //   link: "https://mystoryapp.pythonanywhere.com/",
-  // },
 ];
