@@ -49,8 +49,8 @@ export const projects = [
     description:
       "Smart Spend is a personal finance management tool that helps users track their expenses and manage their budgets effectively. The platform offers a user-friendly interface, allowing users to easily input and categorize their expenses. With features like expense tracking, budget setting, and financial insights, Smart Spend empowers users to take control of their finances.",
     imgSrc: smartSpend,
-    myRole: ["Frontend Development", "UI/UX Design", "Project Management"],
-    link: "https://smart-spend-web.vercel.app/",
+    myRole: ["blah blah", "blah blah", "blah blah"],
+    link: "gfhdgfh" , //link not available
   },
 
   // {
