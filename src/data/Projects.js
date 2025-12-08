@@ -15,7 +15,7 @@ export const projects = [
     description:
       "An immersive survival horror game set in a vast desert landscape, where players explore ancient ruins, uncover hidden secrets, and survive against mystical creatures.",
     imgSrc: game,
-    myRole: ["nana"],
+    myRole: ["Multiple jinn types with unique behaviors (whisperers, illusionists, hunters). AI reacts to player noise, movement, and proximity", "Added a possession subsystem using event-driven state changes", "Randomized item spawns, ritual components, and environmental events for high replay value"],
     link: "https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D7580102370&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F122046560302014",
   },
   
