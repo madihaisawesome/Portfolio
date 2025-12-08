@@ -29,7 +29,7 @@ const Nav = () => {
         {/* External Resume link opens PDF in new tab */}
         <li className="nav-item">
           <a
-            href="/resume.pdf"
+            href="/Resume.pdf"
             className="nav-link"
             target="_blank"
             rel="noopener noreferrer"

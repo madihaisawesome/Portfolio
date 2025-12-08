@@ -12,23 +12,6 @@ import { experience } from "../../data/Experience";
 const Experience = () => {
   return (
     <Layout pageTitle="Experience">
-      {/* Small resume link (place resume.pdf and resume-icon.png in public/) */}
-      <div style={{ marginBottom: 16 }}>
-        <a
-          href="/resume.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Open resume PDF"
-        >
-          <img
-            src="/resume-icon.png"
-            alt="Resume PDF"
-            width="48"
-            height="48"
-            style={{ display: "inline-block" }}
-          />
-        </a>
-      </div>
       <Timeline title="Experience" icon={faGraduationCap} items={experience} />
       <Timeline title="Education" icon={faGraduationCap} items={education} />
       <Timeline
