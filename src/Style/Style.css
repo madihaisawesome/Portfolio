@@ -4,6 +4,7 @@
 :root {
   /* Colors */
   --background-color: rgb(249, 141, 189); 
+  --background-image: url('/background.jpg');
   --card-background: rgb(255, 255, 255); 
   --item-background: rgb(255, 255, 255); 
   --accent-color: #790b30; 
@@ -17,6 +18,8 @@
 
   /* Shadows */
   --shadow-1: -4px 8px 24px rgba(0, 0, 0, 0.25);
+    /* Background image: put a file in `public/` and reference it here (e.g. `/background.jpg`) */
+    --background-image: url('/background.jpg');
   --shadow-2: 0 16px 30px rgba(0, 0, 0, 0.125);
 }
 
@@ -35,7 +38,12 @@
 
 body {
   color: var(--text-color);
-  background-color: var(--background-color);
+    /* Use an image with color fallback. Update `--background-image` above to change the image path. */
+    background-color: var(--background-color);
+    background-image: var(--background-image);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   font-family: var(--font-accent);
 }
 
