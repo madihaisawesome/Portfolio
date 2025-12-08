@@ -1,5 +1,6 @@
 import DesignIcon from "../assets/icon-design.png";
 import DevIcon from "../assets/icon-dev.png";
+import Outdoors from "../assets/outdoors.png";
 
 export const services = [
   {
@@ -17,9 +18,9 @@ export const services = [
   },
 
     {
-    icon: DevIcon,
+    icon: Outdoors,
     alt: "Web development icon",
-    title: "Chappa",
+    title: "Explorer",
     description: "High-quality development of sites at the professional level.",
   },
 
