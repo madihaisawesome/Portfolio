@@ -1,5 +1,5 @@
-import arsheryBistro from "../assets/arsherybistro.png";
-import ardonyx from "../assets/ardonyx.png";
+import museum from "../assets/museum.png";
+import Airplane from "../assets/Airplane.png";
 import smartSpend from "../assets/smartSpend.png";
 import karyawan from "../assets/karyawan.png";
 
@@ -11,20 +11,20 @@ export const projects = [
     category: "Application",
     description:
       "",
-    imgSrc: ardonyx,
+    imgSrc: Airplane,
     myRole: ["Built a modular Java application with optimized SQL databse integration for efficient data handling", "Created clean, reusable code across victim, worker, and medical record modules"],
     link: "https://github.com/azlfa-anwar/ensf480?search=1",
   },
   {
     id: 3,
-    title: "House Of Dumplings",
-    techStack: ["React.js", "antD"],
-    category: "Restaurant Website",
+    title: "Museum Database",
+    techStack: ["MySQL", "Python"],
+    category: "Database Management System",
     description:
-      "House Of Dumplings is a restaurant website built with the MERN stack, where users can browse the menu, place orders, read about the restaurant, and contact us. I handled the frontend development. The site also includes an admin page for managing products and orders.",
-    imgSrc: arsheryBistro,
+      "NANA",
+    imgSrc: museum,
     myRole: ["Frontend Development", "UI/UX Design", "Project Management"],
-    link: "https://demo-hod.vercel.app/",
+    link: "https://github.com/ENSF-300-Fall-2024/museum-project-system_error",
   },
   {
     id: 4,

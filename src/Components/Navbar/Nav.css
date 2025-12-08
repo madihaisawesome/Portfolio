@@ -65,7 +65,7 @@
     bottom: 0px;
     left: 50%;
     transform: translateX(-50%);
-    background: rgba(43, 43, 44, 0.75);
+    background: rgba(146, 13, 77, 0.33);
     backdrop-filter: blur(10px);
     border-radius: 20px 20px 0 0;
     border: 1px solid var(--border-color);

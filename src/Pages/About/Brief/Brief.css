@@ -1,5 +1,5 @@
 .about-text {
-  color: rgb(214, 214, 214);
+  color: rgb(121, 16, 79);
   font-size: 15px;
   font-weight: 300;
   line-height: 1.6;
@@ -8,7 +8,7 @@
 
 .about-text p {
   margin-bottom: 15px;
-}
+} 
 
 /* Responsive Styles */
 @media only screen and (max-width: 580px) {

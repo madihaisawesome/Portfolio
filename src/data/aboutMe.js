@@ -1,5 +1,5 @@
 export const briefContent = [
-  ` BLah blah blah `,
+  ` Hello! My name is Madiha Khan and I `,
 
   `lalallal. `,
 
