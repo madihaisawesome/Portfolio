@@ -3,8 +3,22 @@ import Airplane from "../assets/Airplane.png";
 import smartSpend from "../assets/disaster.png";
 import karyawan from "../assets/timer.jpg";
 import led from "../assets/led.png";
+import game from "../assets/game.png";
 
 export const projects = [
+
+    {
+    id: 6,
+    title: "Sands of the Forgotten: Qarya Al-Mansiyah",
+    techStack: ["Roblox Studio"],
+    category: "Game",
+    description:
+      "An immersive survival horror game set in a vast desert landscape, where players explore ancient ruins, uncover hidden secrets, and survive against mystical creatures.",
+    imgSrc: game,
+    myRole: ["nana"],
+    link: "https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D7580102370&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F122046560302014",
+  },
+  
   {
     id: 1,
     title: "Flight Reservation System",
