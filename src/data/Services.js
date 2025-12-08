@@ -15,4 +15,18 @@ export const services = [
     title: "Chappa",
     description: "High-quality development of sites at the professional level.",
   },
+
+    {
+    icon: DevIcon,
+    alt: "Web development icon",
+    title: "Chappa",
+    description: "High-quality development of sites at the professional level.",
+  },
+
+    {
+    icon: DevIcon,
+    alt: "Web development icon",
+    title: "Chappa",
+    description: "High-quality development of sites at the professional level.",
+  },
 ];

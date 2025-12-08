@@ -1,12 +1,12 @@
 import museum from "../assets/museum.png";
 import Airplane from "../assets/Airplane.png";
 import smartSpend from "../assets/smartSpend.png";
-import karyawan from "../assets/karyawan.png";
+import karyawan from "../assets/timer.jpg";
 
 export const projects = [
   {
     id: 1,
-    title: "Disaster Relief Management System",
+    title: "Flight Reservation System",
     techStack: ["Java"],
     category: "Application",
     description:
@@ -28,9 +28,9 @@ export const projects = [
   },
   {
     id: 4,
-    title: "The Karyawan",
-    techStack: ["React.js", "Shadcn", "Tailwind"],
-    category: "Publication Website",
+    title: "Count Down Timer App",
+    techStack: ["MPLab", "RealTerm", "C", "Python"],
+    category: "Embedded Systems",
     description:
       "Karyawan is a publication website where users can create accounts, log in, and publish articles. The site features a clean and modern design, with a focus on user experience. I was responsible for troubleshooting UI issues, optimizing the interface, and fixing visual bugs.",
     imgSrc: karyawan,
@@ -39,11 +39,11 @@ export const projects = [
       "Interface Optimization",
       "Visual Bug Fixing",
     ],
-    link: "https://karyawan-v2.vercel.app/",
+    link: "fjosjfsj", //link not available
   },
   {
     id: 2,
-    title: "SmartSpend",
+    title: "Disaster Relief Management System",
     techStack: ["Next.js", "antD"],
     category: "Expense Tracker",
     description:

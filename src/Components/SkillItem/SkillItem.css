@@ -37,7 +37,7 @@
 
 /* Background for skill progress bar */
 .skill-progress-bg {
-  background: rgb(56, 56, 56);
+  background: rgb(246, 194, 226);
   width: 100%;
   height: 8px;
   border-radius: 10px;
@@ -45,7 +45,7 @@
 
 /* Fill within the skill progress bar */
 .skill-progress-fill {
-  background: var(--primary-gradient);
+  background: rgb(237, 42, 159);
   height: 100%;
   border-radius: inherit;
 }

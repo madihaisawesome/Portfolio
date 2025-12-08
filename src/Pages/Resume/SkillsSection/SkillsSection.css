@@ -10,8 +10,8 @@
   position: relative;
   background: linear-gradient(
     to bottom right,
-    rgb(63, 63, 64) 3%,
-    rgb(48, 48, 48) 97%
+    rgb(255, 255, 255) 3%,
+    rgb(255, 237, 73) 97%
   );
   padding: 30px;
   padding-top: 25px;
@@ -28,10 +28,10 @@
   inset: 1px;
   background: linear-gradient(
       to bottom right,
-      rgba(45, 45, 46, 0.251) 0%,
-      rgba(29, 27, 27, 0) 100%
+      rgba(253, 241, 241, 0.251) 0%,
+      rgba(209, 0, 0, 0.057) 90%
     ),
-    rgb(32, 32, 34);
+    rgb(239, 255, 166);
   border-radius: inherit;
   z-index: -1;
 }
