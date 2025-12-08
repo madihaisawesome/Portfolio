@@ -1,6 +1,6 @@
 import museum from "../assets/museum.png";
 import Airplane from "../assets/Airplane.png";
-import smartSpend from "../assets/smartSpend.png";
+import smartSpend from "../assets/disaster.png";
 import karyawan from "../assets/timer.jpg";
 
 export const projects = [
