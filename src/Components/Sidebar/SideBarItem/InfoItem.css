@@ -38,7 +38,7 @@
 /* Style for the icon */
 .icon-box .icon {
   font-size: 1em;
-  color: var(--accent-color);
+  color: white;
 }
 
 /* Style for the label text */
