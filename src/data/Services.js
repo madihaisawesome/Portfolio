@@ -14,7 +14,7 @@ export const services = [
   {
     icon: DevIcon,
     alt: "Web development icon",
-    title: "Chappa",
+    title: "Game Development",
     description: "High-quality development of sites at the professional level.",
   },
 
@@ -28,7 +28,7 @@ export const services = [
     {
     icon: Art,
     alt: "Web development icon",
-    title: "Chappa",
+    title: "Arts and Crafts",
     description: "High-quality development of sites at the professional level.",
   },
 ];
