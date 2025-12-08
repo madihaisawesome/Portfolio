@@ -1,7 +1,7 @@
 import "./Style/Style.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import About from "./Pages/About/About";
-import Resume from "./Pages/Resume/Resume";
+import Experience from "./Pages/Experience/Experience";
 import Portfolio from "./Pages/Portfolio/Portfolio";
 import Contact from "./Pages/Contact/Contact";
 
@@ -10,7 +10,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<About />} />
-        <Route path="/resume" element={<Resume />} />
+        <Route path="/experience" element={<Experience />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>

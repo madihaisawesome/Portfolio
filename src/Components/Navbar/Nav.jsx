@@ -17,13 +17,26 @@ const Nav = () => {
         </li>
         <li className="nav-item">
           <NavLink
-            to="/resume"
+            to="/experience"
             className={({ isActive }) =>
               isActive ? "nav-link active" : "nav-link"
             }
           >
-            Resume
+            Experience
           </NavLink>
+        </li>
+
+        {/* External Resume link opens PDF in new tab */}
+        <li className="nav-item">
+          <a
+            href="/resume.pdf"
+            className="nav-link"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Open resume PDF"
+          >
+            Resume
+          </a>
         </li>
         <li className="nav-item">
           <NavLink

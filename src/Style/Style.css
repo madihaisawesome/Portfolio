@@ -6,7 +6,7 @@
   --background-color: rgb(249, 141, 189); 
   --background-image: url('/background.jpg');
   --card-background: rgb(255, 255, 255); 
-  --item-background: rgb(255, 255, 255); 
+  --item-background: rgba(255, 192, 203, 0.363); 
   --accent-color: white; 
   --light-gray: rgb(90, 8, 8);
   --text-color: rgb(230, 66, 121);
@@ -28,7 +28,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: pink;
 }
 
 ::selection {
