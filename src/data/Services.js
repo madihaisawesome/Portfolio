@@ -7,28 +7,28 @@ export const services = [
   {
     icon: DesignIcon,
     alt: "design icon",
-    title: "Chickiee",
+    title: "",
     description:
-      "add smthh",
+      "",
   },
   {
     icon: DevIcon,
     alt: "Web development icon",
     title: "Game Development",
-    description: "add smthhh",
+    description: "I love developing open-world and horror games! ",
   },
 
     {
     icon: Outdoors,
     alt: "Web development icon",
     title: "Exploring",
-    description: "add smthhhh",
+    description: "Discovering new places and experiencing nature's beauty fuels my adventurous spirit.",
   },
 
     {
     icon: Art,
     alt: "Web development icon",
     title: "Arts and Crafts",
-    description: "smthhhhh",
+    description: "To relax, I enjoy creating art and crafts, allowing my creativity to flow freely (and take a break from that pesky code).",
   },
 ];
