@@ -48,16 +48,7 @@ const Nav = () => {
             Portfolio
           </NavLink>
         </li>
-        <li className="nav-item">
-          <NavLink
-            to="/contact"
-            className={({ isActive }) =>
-              isActive ? "nav-link active" : "nav-link"
-            }
-          >
-            Contact
-          </NavLink>
-        </li>
+        
       </ul>
     </nav>
   );
