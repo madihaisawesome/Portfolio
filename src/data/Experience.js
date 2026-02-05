@@ -1,6 +1,12 @@
 export const experience = [
 
     {
+      title: "Software Engineer Intern",
+      date: "Deceomber 2025 — Present",
+      description: "Used Docker and Kubernetes to containerize applications. Developed RESTful APIs with Node.js and Express."
+    },
+
+    {
       title: "Lead Volunteer (Womens Side)",
       date: "March 2024 — Present",
       description: "Coordinated volunteer activities and managed schedules for a team of 15 volunteers. Led initiatives to improve community engagement and support services.",
