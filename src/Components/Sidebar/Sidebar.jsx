@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import profilePicture from "../../assets/profile-pic.png";
 import {
   faEnvelope,
-  faPhone,
   faLocationDot,
   faChevronDown,
   faChevronUp,
@@ -77,12 +76,6 @@ const Sidebar = () => {
           label="Email"
           content="m24049502@gmail.com"
           href="mailto:m24049502@gmail.com"
-        />
-        <InfoItem
-          icon={faPhone}
-          label="Phone"
-          content="+1 8254319445"
-          href="tel:+18254319445"
         />
         <InfoItem
           icon={faLocationDot}
